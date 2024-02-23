@@ -1,4 +1,4 @@
-<h1>News Project ColdFusion</h1>
+<h1>News App ColdFusion</h1>
 
 <p>This project is designed to include the functions of a news website. The project includes all CRUD functions.
    It has the functions of adding news, reading news, updating and deleting news. At the same time, adding, updating and deleting news topics
