@@ -48,5 +48,25 @@ http://localhost:8500/NewsProject
 <br/>
 
 <div align="center">
+   
 <h2>Images</h2>
+<img src="images/1.JPG"/>   
+<br/> <br/> <br/> <br/> 
+<img src="images/2.JPG"/>   
+<br/> <br/> <br/> <br/> 
+<img src="images/3.JPG"/>  
+<br/> <br/> <br/> <br/> 
+<img src="images/4.JPG"/>  
+<br/> <br/> <br/> <br/> 
+<img src="images/5.JPG"/>
+<br/> <br/> <br/> <br/> 
+<img src="images/6.JPG"/>
+<br/> <br/> <br/> <br/> 
+<img src="images/7.JPG"/>
+<br/> <br/> <br/> <br/> 
+<img src="images/8.JPG"/>
+<br/> <br/> <br/> <br/> 
+<img src="images/9.JPG"/>  
+<br/> <br/> <br/> <br/> 
+   
 </div>
