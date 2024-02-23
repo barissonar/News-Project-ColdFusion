@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+
+   font-family: 'Roboto', sans-serif;
+    
+}
+
+/* Temel stillendirme */
+.zoom-effect {
+
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+/* Öğenin üzerine gelindiğinde uygulanacak stil */
+.zoom-effect:hover {
+    transform: scale(1.2); /* 1.2 kat büyüt */
+}
+
+.bg-color-gray{
+    background-color: #333333;
+}
